@@ -17,9 +17,8 @@ func main() {
 	y = "Bond, James Bond"
 
 	fmt.Println(y)
-	fmt.Printf("%T\n", y)
+	fmt.Printf("%T\n", y) // Prints the type of variable
 
 	fmt.Println(z)
 	fmt.Printf("%T", z)
 }
-
